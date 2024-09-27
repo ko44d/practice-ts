@@ -13,3 +13,14 @@ pnpm install --save-dev typescript @types/node
 ```
 npx tsc --init
 ```
+
+## TypeScriptのコンパイル
+```
+pnpm install
+npx tsc
+```
+
+## Node.jsで実行
+```
+node dist/<対象のjsファイル>
+```
