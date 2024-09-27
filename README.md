@@ -28,4 +28,5 @@ node dist/<対象のjsファイル>
 ## TypeScripのコンパイルとNode.jsでの実行
 ```
 npx ts-node 
+npx node --loader ts-node/esm src/index.ts
 ```
