@@ -1,4 +1,4 @@
-# practice-typescript
+# practice-ts
 
 pnmp init
 
